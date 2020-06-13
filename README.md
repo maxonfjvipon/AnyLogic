@@ -15,7 +15,7 @@ It's not clickbait :D The virus distribution model
 Simple factory with 2 conveyors 3d model
 
 ### RGR
-The coronavirus in Bryansk, Russia distribution model
+The coronavirus in Bryansk (Russia) distribution model
 
 ### TrafficLight
 The name tells for itself (3 traffic lights)
